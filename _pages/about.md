@@ -24,7 +24,7 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2025</div><img src='images/GVMGen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GVMGen: A General Video-to-Music Generation Model with Hierarchical Attentions](https://ojs.aaai.org/index.php/AAAI/article/view/34474)
