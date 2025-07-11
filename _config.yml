@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Junxian Wu (吴俊贤)"
+title                    : "Junxian Wu"
 description              : "Focusing on cross-modal music generation."
 repository               : "kita-wjx/kita-wjx.github.io"
 google_scholar_stats_use_cdn : true
