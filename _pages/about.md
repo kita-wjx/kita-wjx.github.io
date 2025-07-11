@@ -35,8 +35,6 @@ Proceedings of the AAAI Conference on Artificial Intelligence (AAAI) 2025
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 📖 Educations
 - *2024.0 - now*, Master, Zhejiang University, Hangzhou.
 - *2020.09 - 2024.06*, Undergraduate, Zhejiang University, Hangzhou. 
