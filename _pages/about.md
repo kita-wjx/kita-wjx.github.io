@@ -32,6 +32,8 @@ redirect_from:
 Heda Zuo, Weitao You, **Junxian Wu**, Shihong Ren, Pei Chen, Mingxu Zhou, Yujia Lu, Lingyun Sun
 
 Proceedings of the AAAI Conference on Artificial Intelligence (AAAI) 2025
+
+[Code](https://github.com/chouliuzuo/GVMGen)
 </div>
 </div>
 
