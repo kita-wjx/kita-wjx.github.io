@@ -24,6 +24,19 @@ redirect_from:
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM2025</div><img src='images/MCV2M.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Controllable Video-to-Music Generation with Multiple Time-Varying Conditions](https://arxiv.org/abs/2507.20627)
+
+**Junxian Wu**, Weitao You, Heda Zuo, Dengming Zhang, Pei Chen, Lingyun Sun
+
+Proceedings of the 33rd ACM International Conference on Multimedia (ACMMM 2025)
+
+[Github Code](https://github.com/kita-wjx/MTCV2M)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2025</div><img src='images/GVMGen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -33,7 +46,7 @@ Heda Zuo, Weitao You, **Junxian Wu**, Shihong Ren, Pei Chen, Mingxu Zhou, Yujia 
 
 Proceedings of the AAAI Conference on Artificial Intelligence (AAAI) 2025
 
-[Code](https://github.com/chouliuzuo/GVMGen)
+[Github Code](https://github.com/chouliuzuo/GVMGen)
 </div>
 </div>
 
