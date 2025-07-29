@@ -17,6 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+I'm Junxian Wu, a master's student at the Zhejiang University. I graduated from Chu Kochen Honors College, Zhejiang University with a bachelor’s degree.
+
+My research interest includes Music Generation and Multimodal Generation.
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 Two papers are accepted by ACMMM 2025. 
@@ -49,6 +52,9 @@ Proceedings of the AAAI Conference on Artificial Intelligence (AAAI) 2025
 [Github Code](https://github.com/chouliuzuo/GVMGen)
 </div>
 </div>
+
+# 🎖 Honors and Awards
+
 
 # 📖 Educations
 - *2024.0 - now*, Master, Zhejiang University, Hangzhou.
