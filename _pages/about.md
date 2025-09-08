@@ -36,6 +36,7 @@ My research interest includes Music Generation and Multimodal Generation.
 
 Proceedings of the 33rd ACM International Conference on Multimedia (ACMMM 2025)
 
+[Project](https://kita-wjx.github.io/MCV2M)
 [Github Code](https://github.com/kita-wjx/MTCV2M)
 </div>
 </div>
@@ -49,12 +50,15 @@ Heda Zuo, Weitao You, **Junxian Wu**, Shihong Ren, Pei Chen, Mingxu Zhou, Yujia 
 
 Proceedings of the AAAI Conference on Artificial Intelligence (AAAI) 2025
 
+[Project](https://github.com/chouliuzuo/GVMGen)
 [Github Code](https://github.com/chouliuzuo/GVMGen)
 </div>
 </div>
 
 # 🎖 Honors and Awards
-
+- *2021.11*, Zhejiang University Scholarship - Second Prize
+- *2023.11*, Scholarship for Leading Achievements
+- *2024.06*, Excellent Undergraduate Graduate
 
 # 📖 Educations
 - *2024.0 - now*, Master, Zhejiang University, Hangzhou.
