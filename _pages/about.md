@@ -30,7 +30,7 @@ My research interest includes Music Generation and Multimodal Generation.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM2025</div><img src='images/MCV2M.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Controllable Video-to-Music Generation with Multiple Time-Varying Conditions](https://arxiv.org/abs/2507.20627)
+[Controllable Video-to-Music Generation with Multiple Time-Varying Conditions](https://dl.acm.org/doi/abs/10.1145/3746027.3755656)
 
 **Junxian Wu**, Weitao You, Heda Zuo, Dengming Zhang, Pei Chen, Lingyun Sun
 
@@ -39,6 +39,17 @@ Proceedings of the 33rd ACM International Conference on Multimedia (ACMMM 2025)
 [Project](https://kita-wjx.github.io/MCV2M)
 
 [Github Code](https://github.com/kita-wjx/MTCV2M)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM2025</div><img src='images/STDA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Spatial-Temporal Decomposition and Alignment in Controllable Video-to-Music Generation](https://dl.acm.org/doi/abs/10.1145/3746027.3755523)
+
+Weitao You, Heda Zuo, **Junxian Wu**, Dengming Zhang, Zhibin Zhou, Lingyun Sun
+
+Proceedings of the 33rd ACM International Conference on Multimedia (ACMMM 2025)
 </div>
 </div>
 
