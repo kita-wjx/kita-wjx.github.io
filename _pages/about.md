@@ -35,6 +35,7 @@ My research interests include multimodal representation learning, music generati
 [MOON3.0: Reasoning-aware Multimodal Representation Learning for E-commerce Product Understanding](https://arxiv.org/abs/2604.00513)
 
 **Junxian Wu**, Chenghan Fu, Zhanheng Nie, Daoze Zhang, Bowen Wan, Wanxian Guan, Chuan Yu, Jian Xu, Bo Zheng
+
 Proceedings of the 34th ACM International Conference on Multimedia (ACMMM 2026)
 
 [Project](https://arxiv.org/abs/2604.00513)
@@ -49,6 +50,7 @@ Proceedings of the 34th ACM International Conference on Multimedia (ACMMM 2026)
 [IVQ: Structured and Lightweight Vector Quantization via Binary Hierarchical Composition Inspired by IChing](https://icml.cc/virtual/2026/poster/63329)
 
 Heda Zuo, **Junxian Wu**, Fengjie Lu, Pei Chen, Lingyun Sun, Weitao You
+
 International Conference on Machine Learning (ICML 2026)
 
 [Project](https://github.com/chouliuzuo/IVQ)
@@ -63,6 +65,7 @@ International Conference on Machine Learning (ICML 2026)
 [MOON2.0: Dynamic Modality-balanced Multimodal Representation Learning for E-commerce Product Understanding](https://openaccess.thecvf.com/content/CVPR2026/html/Nie_MOON2.0_Dynamic_Modality-balanced_Multimodal_Representation_Learning_for_E-commerce_Product_Understanding_CVPR_2026_paper.html)
 
 Zhanheng Nie, Chenghan Fu, Daoze Zhang, **Junxian Wu**, Wanxian Guan, Pengjie Wang, Jian Xu, Bo Zheng
+
 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026
 
 [Project](https://openaccess.thecvf.com/content/CVPR2026/html/Nie_MOON2.0_Dynamic_Modality-balanced_Multimodal_Representation_Learning_for_E-commerce_Product_Understanding_CVPR_2026_paper.html)
