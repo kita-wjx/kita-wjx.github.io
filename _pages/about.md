@@ -19,7 +19,7 @@ redirect_from:
 
 I'm Junxian Wu, a master's student at the Zhejiang University. I graduated from Chu Kochen Honors College, Zhejiang University with a bachelor’s degree.
 
-My research interest includes Music Generation and Multimodal Generation.
+My research interests include multimodal representation learning, music generation, and multimodal generative modeling.
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 Two papers are accepted by ACMMM 2025. 
