@@ -22,10 +22,26 @@ I'm Junxian Wu, a master's student at the Zhejiang University. I graduated from 
 My research interests include multimodal representation learning, music generation, and multimodal generative modeling.
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 One paper is accepted by ACMMM 2026. 
+- *2026.05*: &nbsp;🎉🎉 One paper is accepted by ICML 2026.
+- *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
 - *2025.07*: &nbsp;🎉🎉 Two papers are accepted by ACMMM 2025. 
 - *2024.12*: &nbsp;🎉🎉 A paper is accepted by AAAI 2025. 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2026</div><img src='images/MOON2_0.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MOON2.0: Dynamic Modality-balanced Multimodal Representation Learning for E-commerce Product Understanding](https://openaccess.thecvf.com/content/CVPR2026/html/Nie_MOON2.0_Dynamic_Modality-balanced_Multimodal_Representation_Learning_for_E-commerce_Product_Understanding_CVPR_2026_paper.html)
+
+Zhanheng Nie, Chenghan Fu, Daoze Zhang, **Junxian Wu**, Wanxian Guan, Pengjie Wang, Jian Xu, Bo Zheng
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026 (CVPR 2026)
+
+[Project](https://openaccess.thecvf.com/content/CVPR2026/html/Nie_MOON2.0_Dynamic_Modality-balanced_Multimodal_Representation_Learning_for_E-commerce_Product_Understanding_CVPR_2026_paper.html)
+
+[Github Code](https://huggingface.co/datasets/ZHNie/MBE2.0)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM2025</div><img src='images/MCV2M.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
