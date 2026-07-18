@@ -28,18 +28,46 @@ My research interests include multimodal representation learning, music generati
 - *2025.07*: &nbsp;🎉🎉 Two papers are accepted by ACMMM 2025. 
 - *2024.12*: &nbsp;🎉🎉 A paper is accepted by AAAI 2025. 
 
-# 📝 Publications 
+# 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM2026</div><img src='images/MOON3_0.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MOON3.0: Reasoning-aware Multimodal Representation Learning for E-commerce Product Understanding](https://arxiv.org/abs/2604.00513)
+
+**Junxian Wu**, Chenghan Fu, Zhanheng Nie, Daoze Zhang, Bowen Wan, Wanxian Guan, Chuan Yu, Jian Xu, Bo Zheng
+Proceedings of the 34th ACM International Conference on Multimedia (ACMMM 2026)
+
+[Project](https://arxiv.org/abs/2604.00513)
+
+[Github Code](https://arxiv.org/abs/2604.00513)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML2026</div><img src='images/IVQ.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[IVQ: Structured and Lightweight Vector Quantization via Binary Hierarchical Composition Inspired by IChing](https://icml.cc/virtual/2026/poster/63329)
+
+Heda Zuo, **Junxian Wu**, Fengjie Lu, Pei Chen, Lingyun Sun, Weitao You
+International Conference on Machine Learning (ICML 2026)
+
+[Project](https://github.com/chouliuzuo/IVQ)
+
+[Github Code](https://github.com/chouliuzuo/IVQ)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2026</div><img src='images/MOON2_0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MOON2.0: Dynamic Modality-balanced Multimodal Representation Learning for E-commerce Product Understanding](https://openaccess.thecvf.com/content/CVPR2026/html/Nie_MOON2.0_Dynamic_Modality-balanced_Multimodal_Representation_Learning_for_E-commerce_Product_Understanding_CVPR_2026_paper.html)
 
 Zhanheng Nie, Chenghan Fu, Daoze Zhang, **Junxian Wu**, Wanxian Guan, Pengjie Wang, Jian Xu, Bo Zheng
-Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026 (CVPR 2026)
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026
 
 [Project](https://openaccess.thecvf.com/content/CVPR2026/html/Nie_MOON2.0_Dynamic_Modality-balanced_Multimodal_Representation_Learning_for_E-commerce_Product_Understanding_CVPR_2026_paper.html)
 
-[Github Code](https://huggingface.co/datasets/ZHNie/MBE2.0)
+[Github Code](https://openaccess.thecvf.com/content/CVPR2026/html/Nie_MOON2.0_Dynamic_Modality-balanced_Multimodal_Representation_Learning_for_E-commerce_Product_Understanding_CVPR_2026_paper.html)
 </div>
 </div>
 
