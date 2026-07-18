@@ -22,10 +22,10 @@ I'm Junxian Wu, a master's student at the Zhejiang University. I graduated from 
 My research interests include multimodal representation learning, music generation, and multimodal generative modeling.
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉🎉 One paper is accepted by ACMMM 2026. 
-- *2026.05*: &nbsp;🎉🎉 One paper is accepted by ICML 2026.
-- *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
-- *2025.07*: &nbsp;🎉🎉 Two papers are accepted by ACMMM 2025. 
+- *2026.07*: &nbsp;🎉🎉 A paper is accepted by ACMMM 2026. 
+- *2026.05*: &nbsp;🎉🎉 A paper is accepted by ICML 2026.
+- *2026.02*: &nbsp;🎉🎉 A paper is accepted by CVPR 2026.
+- *2025.07*: &nbsp;🎉🎉 A papers are accepted by ACMMM 2025. 
 - *2024.12*: &nbsp;🎉🎉 A paper is accepted by AAAI 2025. 
 
 # 📝 Publications
