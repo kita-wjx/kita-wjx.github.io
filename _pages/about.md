@@ -122,4 +122,5 @@ Proceedings of the AAAI Conference on Artificial Intelligence (AAAI) 2025
 - *2020.09 - 2024.06*, Undergraduate, Zhejiang University, Hangzhou. 
 
 # 💻 Internships
+- *2025.09 - now*, Taobao and Tmall Group, China.
 - *2023.07 - 2023.07*, International Design Institute of Zhejiang University, China.
